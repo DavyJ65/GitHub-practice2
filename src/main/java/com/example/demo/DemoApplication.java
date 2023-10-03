@@ -27,4 +27,5 @@ public class DemoApplication {
 
 // new line test!
 	// new test 2!
+	// this is a branch test
 }
